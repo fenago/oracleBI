@@ -1,0 +1,9 @@
+    Entry points
+        WebLogic Console
+            http://oracleclass.wqjd0lbk03du3fq5oq4sahjfbh.cx.internal.cloudapp.net:9500/console
+        Fusion Middleware Control
+            http://oracleclass.wqjd0lbk03du3fq5oq4sahjfbh.cx.internal.cloudapp.net:9500/em
+        BI Publisher
+            http://oracleclass.wqjd0lbk03du3fq5oq4sahjfbh.cx.internal.cloudapp.net:9502/xmlpserver
+        BI Analytics
+            http://oracleclass.wqjd0lbk03du3fq5oq4sahjfbh.cx.internal.cloudapp.net:9502/analytics
